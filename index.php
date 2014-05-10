@@ -73,7 +73,7 @@
 			
 			<div class="row">
 				<div class="col-md-3 col-sm-6 highlight">
-					<div class="h-caption"><h4><i class="fa fa-search fa-5"></i><a href = "#">Track and trace</a></h4></div>
+					<div class="h-caption"><h4><i class="fa fa-search fa-5"></i><a href = "#">Track and Trace</a></h4></div>
 					<div class="h-body text-center">
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aliquid adipisci aspernatur. Soluta quisquam dignissimos earum quasi voluptate. Amet, dignissimos, tenetur vitae dolor quam iusto assumenda hic reprehenderit?</p>
 					</div>
@@ -99,6 +99,33 @@
 				</div>
 			</div> <!-- /row  -->
 		
+			<div class="row">
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-calendar fa-5"></i><a href = "#">Schedule Pickup</a></h4></div>
+					<div class="h-body text-center">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aliquid adipisci aspernatur. Soluta quisquam dignissimos earum quasi voluptate. Amet, dignissimos, tenetur vitae dolor quam iusto assumenda hic reprehenderit?</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-files-o fa-5"></i><a href = "#">View Documentations</a></h4>
+				</div>
+					<div class="h-body text-center">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, commodi, sequi quis ad fugit omnis cumque a libero error nesciunt molestiae repellat quos perferendis numquam quibusdam rerum repellendus laboriosam reprehenderit! </p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-question fa-5"></i><a href = "#">FAQs</a></h4></div>
+					<div class="h-body text-center">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, vitae, perferendis, perspiciatis nobis voluptate quod illum soluta minima ipsam ratione quia numquam eveniet eum reprehenderit dolorem dicta nesciunt corporis?</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 highlight">
+					<div class="h-caption"><h4><i class="fa fa-group fa-5"></i><a href = "#">Careers</a></h4></div>
+					<div class="h-body text-center">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, excepturi, maiores, dolorem quasi reprehenderit illo accusamus nulla minima repudiandae quas ducimus reiciendis odio sequi atque temporibus facere corporis eos expedita? </p>
+					</div>
+				</div>
+			</div> <!-- /row  -->
 		</div>
 	
 	<!-- /Highlights -->
@@ -151,7 +178,7 @@
 					</div>
 
 					<div class="col-md-6 widget">
-						<h3 class="widget-title">Blahs</h3>
+						<h3 class="widget-title">Random Text</h3>
 						<div class="widget-body">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, dolores, quibusdam architecto voluptatem amet fugiat nesciunt placeat provident cumque accusamus itaque voluptate modi quidem dolore optio velit hic iusto vero praesentium repellat commodi ad id expedita cupiditate repellendus possimus unde?</p>
 							<p>Eius consequatur nihil quibusdam! Laborum, rerum, quis, inventore ipsa autem repellat provident assumenda labore soluta minima alias temporibus facere distinctio quas adipisci nam sunt explicabo officia tenetur at ea quos doloribus dolorum voluptate reprehenderit architecto sint libero illo et hic.</p>
@@ -182,7 +209,7 @@
 					<div class="col-md-6 widget">
 						<div class="widget-body">
 							<p class="text-right">
-								Copyright &copy; 2014, Your name. Site by _____ 
+								Copyright &copy; 2014, Your name. Site by <a href="#">TeleBill Corporation</a> 
 							</p>
 						</div>
 					</div>
