@@ -60,7 +60,7 @@
 		<div class="container">
 			<div class="row">
 				<h1 class="lead">Fast, reliable and affordable</h1>
-				<h4 class="tagline">Insert company tag line here. For more information, visit our <a href="#">FAQs</a></h4>
+				<h4 class="tagline">We provide shipments and deliver them in your desired location. For more information, visit our <a href="#">FAQs</a></h4>
 			</div>
 		</div>
 	</header>
@@ -75,26 +75,26 @@
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-search fa-5"></i><a href = "#">Track and Trace</a></h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aliquid adipisci aspernatur. Soluta quisquam dignissimos earum quasi voluptate. Amet, dignissimos, tenetur vitae dolor quam iusto assumenda hic reprehenderit?</p>
+						<p>Find out your transaction's status in just a click away! Just enter your tracking number and determine the shipment details and status.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-truck fa-5"></i><a href = "#">Request Shipment</a></h4>
 				</div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, commodi, sequi quis ad fugit omnis cumque a libero error nesciunt molestiae repellat quos perferendis numquam quibusdam rerum repellendus laboriosam reprehenderit! </p>
+						<p>Efficiently deliver shipments easily! Create your account to be able to request a shipment and we'll take care of the rest!</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-rub fa-5"></i><a href = "#">Cost Calculator</a></h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, vitae, perferendis, perspiciatis nobis voluptate quod illum soluta minima ipsam ratione quia numquam eveniet eum reprehenderit dolorem dicta nesciunt corporis?</p>
+						<p>How much will it cost to deliver shipments? Determine the total cost of your shipment order using this cost calculator.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-location-arrow fa-5"></i><a href = "#">Branch Locator</a></h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, excepturi, maiores, dolorem quasi reprehenderit illo accusamus nulla minima repudiandae quas ducimus reiciendis odio sequi atque temporibus facere corporis eos expedita? </p>
+						<p>Determine where to schedule your pickups and shipment orders through our branch locator.</p>
 					</div>
 				</div>
 			</div> <!-- /row  -->
@@ -103,26 +103,26 @@
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-calendar fa-5"></i><a href = "#">Schedule Pickup</a></h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aliquid adipisci aspernatur. Soluta quisquam dignissimos earum quasi voluptate. Amet, dignissimos, tenetur vitae dolor quam iusto assumenda hic reprehenderit?</p>
+						<p>Easily schedule your pickups by providing information through your user accounts without the hassle of going to our branches!</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-files-o fa-5"></i><a href = "#">View Documentations</a></h4>
 				</div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, commodi, sequi quis ad fugit omnis cumque a libero error nesciunt molestiae repellat quos perferendis numquam quibusdam rerum repellendus laboriosam reprehenderit! </p>
+						<p>Be informed of the documentations required to request shipments and schedule pickups. Other downloadable forms are also available.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-question fa-5"></i><a href = "#">FAQs</a></h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, vitae, perferendis, perspiciatis nobis voluptate quod illum soluta minima ipsam ratione quia numquam eveniet eum reprehenderit dolorem dicta nesciunt corporis?</p>
+						<p>View the frequently asked questions here.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-group fa-5"></i><a href = "#">Careers</a></h4></div>
 					<div class="h-body text-center">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, excepturi, maiores, dolorem quasi reprehenderit illo accusamus nulla minima repudiandae quas ducimus reiciendis odio sequi atque temporibus facere corporis eos expedita? </p>
+						<p>Join our team and experience providing quality shipment services!</p>
 					</div>
 				</div>
 			</div> <!-- /row  -->
